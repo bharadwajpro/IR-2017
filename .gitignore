@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.pk
+.idea/
+Assignment-1/processed_songs
+Assignment-1/songs
+Assignment-1/notes.txt
+Assignment-1/backup
+*.zip
